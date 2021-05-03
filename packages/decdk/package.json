@@ -205,7 +205,7 @@
     "@aws-cdk/lambda-layer-awscli": "0.0.0",
     "@aws-cdk/lambda-layer-kubectl": "0.0.0",
     "constructs": "^3.2.0",
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^10.0.0",
     "jsii-reflect": "^1.15.0",
     "jsonschema": "^1.4.0",
     "yaml": "1.10.0",
